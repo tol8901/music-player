@@ -5,7 +5,8 @@ This is a music player.
 - Available buttons: play/pause, next/previous track;
 - Showing thumbnail of the album;
 - Showing track name and author name;
-- Possibility to go at any place of the track by click at the time bar.
+- Possibility to go at any place of the track by click at the time bar;
+- After ending of the current track, player go to play next track.
 
 # Is available
 At the link below:
