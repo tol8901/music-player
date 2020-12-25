@@ -1,5 +1,6 @@
 # music-player
-This is a music player. 
+# Description
+This is a music player, which supports the basic funtionality of the usual music player.
 
 # Main properties/features
 - Available buttons: play/pause, next/previous track;
